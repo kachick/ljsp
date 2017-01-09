@@ -24,6 +24,7 @@ Requirements
 Reference
 ---
 
+* [lisby](https://github.com/kachick/lisby)
 * [lis.py(en)](http://norvig.com/lispy.html)
 * [lis.py(ja - old)](http://www.aoky.net/articles/peter_norvig/lispy.htm)
 
