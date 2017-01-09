@@ -1,0 +1,28 @@
+{
+  "name": "ljsp",
+  "version": "1.0.0",
+  "description": "A shabby lisp interpreter written in ES2015.",
+  "main": "ljsp.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachick/ljsp.git"
+  },
+  "author": "Kenichi Kamiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kachick/ljsp/issues"
+  },
+  "homepage": "https://github.com/kachick/ljsp#readme"
+}
