@@ -38,3 +38,5 @@ jspm_packages
 
 # Yarn
 yarn.lock
+
+dist

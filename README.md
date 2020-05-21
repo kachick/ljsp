@@ -11,10 +11,8 @@ A shabby lisp interpreter written in ES2015. The spec is satisfied to Lispy(lis.
 Usage
 -----
 
-1. Install [`nvm`](https://github.com/nvm-sh/nvm)
-2. Use matched node.js as `nvm 12`
-3. Get source code as `git clone https://github.com/kachick/ljsp.git && cd ./ljsp`
-4. Try REPL as `node bin/ljsp.js`
+1. Use matched node.js as `nvm 12`
+2. Try REPL as `yarn repl`, Input as `(begin (define r 3) (* 3.141592653 (* r r)))`
 
 Requirements
 -------------

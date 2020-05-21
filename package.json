@@ -11,11 +11,15 @@
     "typescript": "^3.9.3"
   },
   "devDependencies": {
+    "@types/mocha": "^7.0.2",
+    "@types/node": "^14.0.4",
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "ts-node": "^8.10.2"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "repl": "ts-node src/main.ts"
   },
   "repository": {
     "type": "git",
