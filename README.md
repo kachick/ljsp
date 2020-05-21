@@ -11,15 +11,15 @@ A shabby lisp interpreter written in ES2015. The spec is satisfied to Lispy(lis.
 Usage
 -----
 
-1. Install [`n`](https://github.com/tj/n)
-2. Use matched node.js as `n 7.4.0`
+1. Install [`nvm`](https://github.com/nvm-sh/nvm)
+2. Use matched node.js as `nvm 12`
 3. Get source code as `git clone https://github.com/kachick/ljsp.git && cd ./ljsp`
 4. Try REPL as `node bin/ljsp.js`
 
 Requirements
 -------------
 
-* Node.js - 7.4.0 or later
+* Node.js - 12.x or later
 
 Reference
 ---
